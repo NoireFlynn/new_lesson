@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e98cca3-3d29-4296-9825-901b5623a75a" name="Changes" comment="added @Test">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demoqa/HomeWork.java" afterDir="false" />
+    <list default="true" id="8e98cca3-3d29-4296-9825-901b5623a75a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/qa_logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/demoqa/JUnitDemoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/demoqa/HomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/demoqa/HomeWork.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +43,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.HomeWork">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Noire\IdeaProjects\new_lesson\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.HomeWork.fillFormTest">
     <configuration name="HomeWork" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -96,8 +102,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.HomeWork" />
         <item itemvalue="Gradle.HomeWork.fillFormTest" />
+        <item itemvalue="Gradle.HomeWork" />
       </list>
     </recent_temporary>
   </component>
@@ -110,18 +116,6 @@
       <option name="presentableId" value="Default" />
       <updated>1674741591997</updated>
     </task>
-    <task id="LOCAL-00001" summary="added @Test">
-      <created>1674744193519</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1674744193519</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="added @Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="added @Test" />
   </component>
 </project>
